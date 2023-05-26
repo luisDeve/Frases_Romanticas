@@ -32,6 +32,8 @@ export let frasesRomanticas = [
     "Eres el latido constante en mi corazón, mi razón de ser.",
     "En tus brazos encuentro el abrigo perfecto para mi alma.",
     "Eres mi confidente, mi cómplice y mi compañero de vida.",
+    "Oye,oye,me caes bien 😃👌✌ ",
+    "Oye puedes venir a mi lugar",
     "A tu lado, el tiempo se vuelve un suspiro interminable.",
     "Eres la inspiración que da vida a mis versos más hermosos.",
     "Tu amor es el mejor regalo que podría recibir en esta vida.",

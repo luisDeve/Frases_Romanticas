@@ -52,9 +52,10 @@ overflow: hidden;
   border-radius: .5rem;
   top: 25rem;
   left: 35%;
-  cursor: pointer;
   background: linear-gradient(135deg, #FE22CF, #E9D7CA);
+  cursor: pointer;
 }
+
 @media (max-width:720px) {
     .generador__frase{
         top: 24rem;
